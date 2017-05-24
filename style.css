@@ -1,0 +1,22 @@
+html,body{
+  width: 100%;
+  height: 100%;
+}
+body{
+  margin:0px;
+  padding:0px;
+}
+#table{
+  background: linear-gradient(#9fe558 0%, #8edb3d 40%, #67c200 100%) no-repeat no-repeat;
+  border: 2px solid #6b4200;
+  border-radius: 40px;
+  padding:60px 40px;
+}
+.hand{
+  background: #9fe558;
+  padding:10px;
+}
+.buttons{
+  text-align: center;
+  padding:3px;
+}
